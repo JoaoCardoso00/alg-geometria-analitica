@@ -1,0 +1,14 @@
+{
+  "name": "trabalho",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "bun-promptx": "^0.2.0"
+  }
+}
